@@ -1,5 +1,5 @@
-=== Understrap ===
-Contributors: howarddc
+=== DNCC ===
+Contributors: KAIYUM MIRZA
 Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
 Requires at least: 5.0
 Tested up to: 5.7.2
@@ -9,16 +9,12 @@ License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
-The renowned WordPress starter theme framework that combines Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
-
-Website: [https://understrap.com](https://understrap.com)
-
-Child Theme Project: [https://github.com/understrap/understrap-child](https://github.com/understrap/understrap-child)
+DNCC Waste Management is a WordPress theme for Dhaka North City Corporation. It is powered by the renowned WordPress starter theme framework that combines Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
 
 == Installation ==
 
 1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
-2. Type in Understrap in the search form and press the 'Enter' key on your keyboard.
+2. Drop the zip file of dncc.
 3. Click on the 'Activate' button to use your new theme right away.
 4. Do not edit the theme files directly. We recommend creating a child theme for custom development. Full developer documentation: [https://docs.understrap.com/](https://docs.understrap.com/)
 
@@ -29,9 +25,6 @@ Child Theme Project: [https://github.com/understrap/understrap-child](https://gi
 
 
 == Copyright ==
-
-Understrap WordPress Theme, 2021 Howard Development & Consulting, LLC
-Understrap is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
