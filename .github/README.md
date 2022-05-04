@@ -1,61 +1,44 @@
+=== DNCC ===
+Contributors: KAIYUM MIRZA
+Tags: one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, theme-options, translation-ready
+Requires at least: 5.0
+Tested up to: 5.7.2
+Requires PHP: 5.2
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-<p align="center"><img src="https://understrap.com/wp-content/uploads/2022/02/Understrap_Logo_Color.svg" width="320" height="auto"></p>
+== Description ==
 
-[![Build Status](https://api.travis-ci.org/understrap/understrap.svg?branch=master)](https://travis-ci.org/understrap/understrap)
-[![Wordpress Theme Version](https://img.shields.io/wordpress/theme/v/understrap.svg)](https://wordpress.org/themes/understrap)
-[![Wordpress Theme Active Installs](https://img.shields.io/wordpress/theme/installs/understrap.svg)](https://wordpress.org/themes/understrap/)
-[![Github Last Commit](https://img.shields.io/github/last-commit/understrap/understrap)](https://github.com/understrap/understrap/commits/master)
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0)
+DNCC Waste Management is a WordPress theme for Dhaka North City Corporation. It is powered by the renowned WordPress starter theme framework that combines Underscores and Bootstrap. Trusted by more than 100,000 developers for building handcrafted, custom WordPress sites.
 
-#### See: [Official Demo](https://understrap.com) | Read: [Official Docs Page](https://docs.understrap.com/)
+== Installation ==
 
-# Understrap WordPress Theme Framework
+1. In your admin panel, go to Appearance -> Themes and click the 'Add New' button.
+2. Drop the zip file of dncc.
+3. Click on the 'Activate' button to use your new theme right away.
+4. Do not edit the theme files directly. We recommend creating a child theme for custom development. Full developer documentation: [https://docs.understrap.com/](https://docs.understrap.com/)
 
-Website: [understrap.com](https://understrap.com)
+== Privacy ==
 
-Child Theme Project: [github.com/understrap/understrap-child](https://github.com/understrap/understrap-child)
 
-Premium Child Themes: [understrap.com/child-themes/](https://understrap.com/child-themes/)
+== Changelog ==
 
-## About
 
-Understrap is the renowned open-source WordPress starter theme that combines Underscores with Bootstrap. Trusted by more than 100,000 developers.
+== Copyright ==
 
-## Documentation
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
 
-Full documentation for this theme is available at [docs.understrap.com](https://docs.understrap.com).
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
-## Questions
+This theme bundles the following third-party resources:
 
-For support requests and bugs, we recommend browsing our [issues](https://github.com/understrap/understrap/issues) and opening a new issue if necessary. For more broad discussion, like questions about the roadmap, visit our [discussion board](https://github.com/understrap/understrap/discussions).
-
-## Changelog
-See [changelog](CHANGELOG.md)
-
-## Basic Features
-
-- Combines Underscore’s PHP/JS files and Bootstrap’s HTML/CSS/JS.
-- Comes with Bootstrap (v4 and/or v5) Sass source files and additional .scss files. Nicely sorted and ready to add your own variables and customize the Bootstrap variables.
-- Uses a single minified CSS file for all the basic stuff.
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/) integration (v4.7.0)
-- Jetpack ready
-- WooCommerce support
-- Contact Form 7 support
-- [Child Theme](https://github.com/understrap/understrap-child) ready
-- Translation ready
-
-## Understrap Academy
-
-[Become an Understrap Expert.](https://www.understrapacademy.com) Presented by the team behind the Understrap Theme Framework, Understrap Academy is a collection of online courses that will help you speed up your development process, make your projects more profitable, and become an Understrap expert in record time.
-
-## License
-
-Copyright 2022 [Howard Development & Consulting, LLC](https://howarddc.com).
-Understrap is distributed under the terms of the GNU GPL version 2
-
-http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
-
-## Credits
-- Font Awesome: https://fontawesome.com/v4.7/license/ (Font: SIL OFL 1.1, (S)CSS: MIT)
-- Bootstrap: http://getbootstrap.com | https://github.com/twbs/bootstrap/blob/master/LICENSE (MIT)
-- WP Bootstrap Navwalker by Edward McIntyre & William Patton: https://github.com/wp-bootstrap/wp-bootstrap-navwalker (GNU GPLv3)
+* Underscores: https://github.com/Automattic/_s/blob/master/LICENSE (GNU GPLv2)
+* Font Awesome: https://fontawesome.com/v4.7/license/ (Font: SIL OFL 1.1, (S)CSS: MIT)
+* Bootstrap: http://getbootstrap.com | https://github.com/twbs/bootstrap/blob/master/LICENSE (MIT)
+* WP Bootstrap Navwalker by Edward McIntyre & William Patton: https://github.com/wp-bootstrap/wp-bootstrap-navwalker (GNU GPLv3)
